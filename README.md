@@ -17,11 +17,3 @@ Replace YOUR_API_KEY in the lib/services/weather.dart file with your Openweather
 
 ![App Screenshot](app.png)
 
-## Link
-
-[Google Play](https://play.google.com/store/apps/details?id=com.gdagtekin.weather)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
